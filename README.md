@@ -8,5 +8,5 @@
 Nama : Zafira Candrawulan Damayanti<br>
 Kelas : XI RPL 2<br>
 No : 35<br>
-Sekolah : SMK Telkom Malang<br
+Sekolah : SMK Telkom Malang<br>
 Nis : 4859/1578.070<br>
