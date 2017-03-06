@@ -5,7 +5,8 @@
 ![screenshot_2017_3_1_11_38_54](https://cloud.githubusercontent.com/assets/22255497/23490339/a8738272-ff2a-11e6-8ab3-c57858e74f95.png)
 
 #Identitas
-Nama : Zafira Candrawulan Damayanti
-Kelas : XI RPL 2
-No : 35
-Sekolah : SMK Telkom Malang
+Nama : Zafira Candrawulan Damayanti<br>
+Kelas : XI RPL 2<br>
+No : 35<br>
+Sekolah : SMK Telkom Malang<br
+Nis : 4859/1578.070<br>
